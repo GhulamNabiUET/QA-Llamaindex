@@ -1,0 +1,366 @@
+user:,HIGH RISK SPX here 01/02 4730P Avg. 3.30
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4730, ""right"": ""P"", ""entry"": 3.30, ""size"": ""complete"" }"
+user:,Trim SPX here 3.30 - 4.20 ✅ 27% Holding most.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.20, ""size"": ""partial"" }"
+user:,More SPX here 3.30 - 5.00 ✅ 52% Holding majority.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 5.00, ""size"": ""partial"" }"
+user:,Reduced risk on SPX here @5.50
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 5.50, ""size"": ""partial"" }"
+user:,Closed SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,"Riskier SPX here 01/03 4725C Avg. 2.75 Started light, Will add if necessary"
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4725, ""right"": ""C"", ""entry"": 2.75, ""size"": ""complete"" }"
+user:,Trim SPX here 2.75 - 3.30 ✅ 20% Holding most
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.30, ""size"": ""partial"" }"
+user:,More SPX here 2.75 - 3.80 ✅ 38% Holding majority.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.80, ""size"": ""partial"" }"
+user:,Reduced risk on SPX here @4.00
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.00, ""size"": ""partial"" }"
+user:,Closed SPX runners here. Solid scalp 🤜🏽🤛🏽
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,LOTTO SPX here 01/03 4700P Avg. 1.50 Stay light!
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4700, ""right"": ""P"", ""entry"": 1.50, ""size"": ""complete"" }"
+user:,Trim SPX here 1.50 - 2.00 ✅ 33%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 2.00, ""size"": ""partial"" }"
+user:,Closed SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,Riskier SPX here 01/04 4720C Avg. 3.00 Stay light
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4720, ""right"": ""C"", ""entry"": 3.00, ""size"": ""complete"" }"
+user:,Trim SPX here 3.00 - 4.00 ✅ 33% Holding most
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.00, ""size"": ""partial"" }"
+user:,3.00 - 4.50 ✅ 50% Holding majority. 3.00 - 5.20 ✅ 73%. Holding 1/2!
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 5.20, ""size"": ""partial"" }"
+user:,Closed SPX here @5.50
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":5.50, ""size"": ""complete"" }"
+user:,"SPX here 01/05 4725C, Avg. 3.00, Stay light!"
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4725, ""right"": ""C"", ""entry"": 3.00, ""size"": ""complete"" }"
+user:,Added to SPX here @2.10 New Avg. is 2.55
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""entry"": 2.10, ""size"": ""partial"" }"
+user:,Stopped out of SPX here 🔻
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,SPX here 01/05 4675P Avg. 2.00
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4675, ""right"": ""P"", ""entry"": 2.00, ""size"": ""complete"" }"
+user:,Trim SPX here 2.00 - 2.60 ✅ 30% Holding most.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 2.60, ""size"": ""partial"" }"
+user:,More SPX here 2.00 - 3.00 ✅ 50% Holding majority
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.00, ""size"": ""partial"" }"
+user:,More SPX here 2.00 - 3.50 ✅ 75% Holding 1/2!
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.50, ""size"": ""partial"" }"
+user:,Closed SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,HIGH RISK SPX here 01/08 4710P Avg. 3.50 Stay light
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4710, ""right"": ""P"", ""entry"": 3.50, ""size"": ""complete"" }"
+user:,3.50 - 4.20 ✅ 20%. Holding most.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.50, ""size"": ""partial"" }"
+user:,Closed SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,Reloaded SPX here 01/08 4710P Avg. 3.00 Stay light
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4710, ""right"": ""P"", ""entry"": 3.00, ""size"": ""complete"" }"
+user:,Trim SPX here 3.00 - 3.80 ✅ 27% Holding most.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.80, ""size"": ""partial"" }"
+user:,More SPX here 3.00 - 4.20 ✅ 40%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.20, ""size"": ""partial"" }"
+user:,Closed SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,Riskier SPX here 01/08 4710P Avg. 2.60
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4710, ""right"": ""P"", ""entry"": 2.60, ""size"": ""complete"" }"
+user:,Stopped out of SPX here 
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,Riskier SPX here 0/09 4755C Avg. 2.75
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4755, ""right"": ""C"", ""entry"": 2.75, ""size"": ""complete"" }"
+user:,Added to SPX here @2.05 New Avg. is 2.40
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""entry"": 2.05, ""size"": ""partial"" }"
+user:,Trim SPX here 2.40 - 3.00 ✅ 25%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.00, ""size"": ""partial"" }"
+user:,More SPX here 2.40 - 3.80 ✅ 58%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.80, ""size"": ""partial"" }"
+user:,More SPX here 2.40 - 4.40 ✅ 83%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.40, ""size"": ""partial"" }"
+user:,Closed SPX here @3.50
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":3.50, ""size"": ""complete"" }"
+user:,Riskier SPX here 01/10 4780C Avg. 2.10
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4780, ""right"": ""C"", ""entry"": 2.10, ""size"": ""complete"" }"
+user:,Trim SPX here 2.10 - 2.60 ✅ 24%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 2.60, ""size"": ""partial"" }"
+user:,Reduced risk on SPX here @2.50
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 2.50, ""size"": ""partial"" }"
+user:,Reduced risk at @2.50 again
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 2.50, ""size"": ""partial"" }"
+user:,Closed SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,LOTTO SPX here 01/10 4775C Avg. 2.50
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4780, ""right"": ""C"", ""entry"": 2.10, ""size"": ""complete"" }"
+user:,Trim SPX here 2.50 - 3.00 ✅ 20%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.00, ""size"": ""partial"" }"
+user:,More SPX here 2.50 - 3.50 ✅ 40%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.50, ""size"": ""partial"" }"
+user:,"Boom, SPX here 2.50 - 4.20 ✅ 68%"
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.20, ""size"": ""partial"" }"
+user:,"Boom, SPX 2.50 - 5.50 ✅ 120%"
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 5.50, ""size"": ""partial"" }"
+user:,Closed SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,Riskier COIN here 01/12 160C Avg. 3.50
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""COIN"", ""strike"": 160, ""right"": ""C"", ""entry"": 3.50, ""size"": ""complete"" }"
+user:,Trim COIN here 3.50 - 4.20 ✅ 20%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""COIN"", ""entry"": 4.20, ""size"": ""partial"" }"
+user:,More COIN here 3.50 - 4.80 ✅ 37%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""COIN"", ""entry"": 4.80, ""size"": ""partial"" }"
+user:,"Boom, COIN here 3.50 - 5.50 ✅ 57%"
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""COIN"", ""entry"": 5.50, ""size"": ""partial"" }"
+user:,Reduced risk on COIN here @5.50
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""COIN"", ""entry"": 5.50, ""size"": ""partial"" }"
+user:,Closed COIN here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""COIN"", ""entry"":, ""size"": ""complete"" }"
+user:,LOTTO SPX here 01/11 4735P Avg. 3.00
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4735, ""right"": ""P"", ""entry"": 3.00, ""size"": ""complete"" }"
+user:,Trim SPX here 3.00 - 3.90 ✅ 30%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.90, ""size"": ""partial"" }"
+user:,More SPX here 3.00 - 5.00 ✅ 66%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 5.00, ""size"": ""partial"" }"
+user:,"Boom, SPX here 3.00 - 6.00 ✅ 100%"
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 6.00, ""size"": ""partial"" }"
+user:,Closed SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,LOTTO SMCI here 01/12 350C Avg. 1.80
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SMCI"", ""strike"": 350, ""right"": ""C"", ""entry"": 1.80, ""size"": ""complete"" }"
+user:,Trim SMCI here 1.80 - 2.70 ✅ 50%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SMCI"", ""entry"": 2.70, ""size"": ""partial"" }"
+user:,Closed SMCI here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SMCI"", ""entry"":, ""size"": ""complete"" }"
+user:,LOTTO SPX here 01/12 4800C Avg. 2.80
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4800, ""right"": ""C"", ""entry"": 2.80, ""size"": ""complete"" }"
+user:,Trim SPX here 2.80 - 3.60 ✅ 29%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.60, ""size"": ""partial"" }"
+user:,Added to SPX here @2.00 New Avg is 2.40
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""entry"": 2.00, ""size"": ""partial"" }"
+user:,Stopped out of SPX 🔻
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,LOTTO SPX here 01/12 4790C Avg. 3.00
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4700, ""right"": ""C"", ""entry"": 3.00, ""size"": ""complete"" }"
+user:,Trim SPX here 3.00 - 3.60 ✅ 20%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.60, ""size"": ""partial"" }"
+user:,More SPX here 3.00 - 3.90 ✅ 30% 
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.90, ""size"": ""partial"" }"
+user:,Closed SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,SPX here 01/16 4750P Avg. 2.00
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4750, ""right"": ""P"", ""entry"": 2.00, ""size"": ""complete"" }"
+user:,Trim SPX here 2.00 - 2.60 ✅ 30%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 2.60, ""size"": ""partial"" }"
+user:,More SPX here 2.00 - 3.40 ✅ 70%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.40, ""size"": ""partial"" }"
+user:,More SPX here 2.00 - 4.00 ✅ 100%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.00, ""size"": ""partial"" }"
+user:,Closed SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,HIGH RISK SPX here 01/17 4705P Avg. 2.50
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4705, ""right"": ""P"", ""entry"": 2.50, ""size"": ""complete"" }"
+user:,Added to SPX here @1.50
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""entry"": 1.50, ""size"": ""partial"" }"
+user:,Stopped out of SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,HIGH RISK SPX here 01/17 4730C Avg. 2.00
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4730, ""right"": ""C"", ""entry"": 2.00, ""size"": ""complete"" }"
+user:,Trim SPX here 2.00 - 2.50 ✅ 25%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 2.00, ""size"": ""partial"" }"
+user:,More SPX here 2.00 - 2.90 ✅ 45%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 2.90, ""size"": ""partial"" }"
+user:,More SPX here 2.00 - 3.50 ✅ 75%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.50, ""size"": ""partial"" }"
+user:,Closed SPX here @2.50
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":2.50, ""size"": ""complete"" }"
+user:,Swing Starter AMD here 01/19 160C Avg. 2.20
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""AMD"", ""strike"": 160, ""right"": ""C"", ""entry"": 2.20, ""size"": ""complete"" }"
+user:,Trim AMD here 2.20 - 6.50 ✅ 195%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""AMD"", ""entry"": 6.50, ""size"": ""partial"" }"
+user:,More AMD here 2.20 - 7.50 ✅ 240%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""AMD"", ""entry"": 7.50, ""size"": ""partial"" }"
+user:,More AMD here 2.20 - 8.50 ✅ 286%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""AMD"", ""entry"": 8.50, ""size"": ""partial"" }"
+user:,Closed AMD here @8.40
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""AMD"", ""entry"": 8.40, ""size"": ""complete"" }"
+user:,HIGH RISK SPX here 01/18 4730P Avg. 2.25
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4730, ""right"": ""P"", ""entry"": 2.25, ""size"": ""complete"" }"
+user:,Stopped out of SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,LOTTO SMCI here 01/19 350C Avg. 3.00
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SMCI"", ""strike"": 350, ""right"": ""C"", ""entry"": 3.00, ""size"": ""complete"" }"
+user:,Trim SMCI here 3.00 - 4.00 ✅ 33%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SMCI"", ""entry"": 4.00, ""size"": ""partial"" }"
+user:,More SMCI here 3.00 - 6.00 ✅ 100%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SMCI"", ""entry"": 6.00, ""size"": ""partial"" }"
+user:,"BOOM, SMCI here 3.00 - 7.50 ✅ 150%"
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SMCI"", ""entry"": 7.50, ""size"": ""partial"" }"
+user:,SMCI!!!!! 3.00 - 11.00 ✅ 266% Holding runners only!
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SMCI"", ""entry"": 11.00, ""size"": ""partial"" }"
+user:,Closed SMCI here 3.00 - 21.00 ✅ 600%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SMCI"", ""entry"": 21.00, ""size"": ""complete"" }"
+user:,LOTTO SPX here 01/19 4810C Avg. 3.00 Stay light
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4810, ""right"": ""C"", ""entry"": 3.00, ""size"": ""complete"" }"
+user:,Trim SPX here 3.00 - 3.60 ✅ 20% Holdng most.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.60, ""size"": ""partial"" }"
+user:,More SPX here 3.00 - 4.00 ✅ 33% Holding majority.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.00, ""size"": ""partial"" }"
+user:,"Boom, SPX here 3.00 - 4.50 ✅ 50%"
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.50, ""size"": ""partial"" }"
+user:,"Boom, SPX here 3.00 - 5.50 ✅ 83% Holding runners only"
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 5.50, ""size"": ""partial"" }"
+user:,Closed SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,High Risk SPX here 01/22 4865C Avg. 2.75
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4865, ""right"": ""C"", ""entry"": 2.75, ""size"": ""complete"" }"
+user:,Trimmed SPX here 2.75 - 3.40 ✅ 24%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.40, ""size"": ""partial"" }"
+user:,Swing Starter DOCU here 01/26 65C Avg. 1.30
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""DOCU"", ""strike"": 65, ""right"": ""C"", ""entry"": 1.30, ""size"": ""complete"" }"
+user:,More SPX here 2.75 - 3.80 ✅ 38%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.80, ""size"": ""partial"" }"
+user:,Closed SPX
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,Added to DOCU here @0.95 
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""DOCU"", ""entry"": 0.95, ""size"": ""partial"" }"
+user:,Riskier SPX here 01/22 4855C Avg. 2.75
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4855, ""right"": ""C"", ""entry"": 2.75, ""size"": ""complete"" }"
+user:,Trim SPX here 2.75 - 3.50 ✅ 27% Holding most.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.50, ""size"": ""partial"" }"
+user:,More SPX here 2.75 - 4.20 ✅ 53% Holding majority
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.20, ""size"": ""partial"" }"
+user:,More SPX here 2.75 - 4.80 ✅ 75%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.80, ""size"": ""partial"" }"
+user:,Closed SPX runners here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,Stopped out of DOCU 🔻
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""DOCU"", ""entry"":, ""size"": ""complete"" }"
+user:,High Risk SPX here 01/24 4900C Avg. 2.50
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4900, ""right"": ""C"", ""entry"": 2.50, ""size"": ""complete"" }"
+user:,Trim SPX here 2.50 - 3.20 ✅ 28% Holding most.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.20, ""size"": ""partial"" }"
+user:,Added back into SPX here @1.80
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""entry"": 1.80, ""size"": ""partial"" }"
+user:,Trim SPX here 2.15 - 3.00 ✅ 40% Holding most.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.00, ""size"": ""partial"" }"
+user:,Reduced risk on SPX here @2.90
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 2.90, ""size"": ""partial"" }"
+user:,More SPX here 2.15 - 4.20 ✅ 95%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.20, ""size"": ""partial"" }"
+user:,Closed SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,Riskier SPX here 01/24 4885P Avg. 1.90
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4885, ""right"": ""P"", ""entry"": 1.90, ""size"": ""complete"" }"
+user:,Trim SPX here 1.90 - 2.50 ✅ 32% Holding most.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 2.50, ""size"": ""partial"" }"
+user:,More SPX here 1.90 - 3.00 ✅ 58% Holding majority.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.00, ""size"": ""partial"" }"
+user:,"Boom, SPX here 1.90 - 5.00  ✅ 163% Holding 1/2!"
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 5.00, ""size"": ""partial"" }"
+user:,Closed SPX here @3.60
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.60, ""size"": ""complete"" }"
+user:,TSLA here 01/26 190C Avg. 3.25
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""TSLA"", ""strike"": 190, ""right"": ""C"", ""entry"": 3.25, ""size"": ""complete"" }"
+user:,Trim TSLA here 3.25 - 4.60 ✅ 41%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""TSLA"", ""entry"": 4.60, ""size"": ""partial"" }"
+user:,Closed TSLA here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""TSLA"", ""entry"":, ""size"": ""complete"" }"
+user:,High Risk SPX here 01/25 4900C Avg. 3.00
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4900, ""right"": ""C"", ""entry"": 3.00, ""size"": ""complete"" }"
+user:,Trim SPX here 3.00 - 3.90 ✅ 30% Holding most.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.90, ""size"": ""partial"" }"
+user:,More SPX here 3.00 - 4.50 ✅ 50% Holding majority
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.50, ""size"": ""partial"" }"
+user:,Reduced risk on SPX here @4.20
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.20, ""size"": ""partial"" }"
+user:,Closed SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,LOTTO SMCI here 01/26 480C Avg. 2.500
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SMCI"", ""strike"": 480, ""right"": ""C"", ""entry"": 2.50, ""size"": ""complete"" }"
+user:,Trim SMCI here 2.50 - 3.50 ✅ 40% Holding most
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SMCI"", ""entry"": 3.50, ""size"": ""partial"" }"
+user:,Closed SMCI runners here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SMCI"", ""entry"":, ""size"": ""complete"" }"
+user:,SPX here 01/26 4905C Avg. 3.00
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4905, ""right"": ""C"", ""entry"": 3.00, ""size"": ""complete"" }"
+user:,Trim SPX here 3.00 - 3.60 ✅ 20% Holding most
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.60, ""size"": ""partial"" }"
+user:,More SPX here 3.00 - 4.00 ✅ 33% Holding majority
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.00, ""size"": ""partial"" }"
+user:,"Boom, SPX here 3.00 - 4.50 ✅ 50%"
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 4.50, ""size"": ""partial"" }"
+user:,"Boom, SPX here 3.00 - 6.00 ✅ 100%"
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 6.00, ""size"": ""partial"" }"
+user:,Closed SPX here @7.00
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":7.00, ""size"": ""complete"" }"
+user:,High Risk SPX here 01/29 4875P Avg. 2.75 Stay light
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4875, ""right"": ""P"", ""entry"": 2.75, ""size"": ""complete"" }"
+user:,Stopped out of SPX here 🔻
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,High Risk SPX here 01/29 4890P Avg. 2.80
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4890, ""right"": ""P"", ""entry"": 2.80, ""size"": ""complete"" }"
+user:,Trim SPX here 2.80 - 3.50 ✅ 25% Holding most.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.50, ""size"": ""partial"" }"
+user:,Closed SPX runners here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,HIGH RISK SMCI here 02/02 600C Avg. 4.00
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SMCI"", ""strike"": 600, ""right"": ""C"", ""entry"": 4.00, ""size"": ""complete"" }"
+user:,SPX here 01/30 4945C Avg. 2.20
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4945, ""right"": ""C"", ""entry"": 2.20, ""size"": ""complete"" }"
+user:,Added to SPX here @1.20 New Avg. is 1.70
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""entry"": 1.70, ""size"": ""partial"" }"
+user:,Stoppee out of SMCI here 🔻
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SMCI"", ""entry"":, ""size"": ""complete"" }"
+user:,Stopped out of SPX here 🔻
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,High Risk SPX here  01/30 4935C Avg. 2.00
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4935, ""right"": ""C"", ""entry"": 2.00, ""size"": ""complete"" }"
+user:,Trim SPX here 2.00 - 2.70 ✅ 35% Holding most.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 2.70, ""size"": ""partial"" }"
+user:,More SPX here 2.00 - 3.20 ✅ 60% Holding majority.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.20, ""size"": ""partial"" }"
+user:,"Boom, SPX here 2.00 - 3.80 ✅ 90% Holding 1/2!"
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.80, ""size"": ""partial"" }"
+user:,Closed SPX runners here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,Riskier MSFT here 02/02 400P Avg. 2.50 Stay light
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""MSFT"", ""strike"": 400, ""right"": ""P"", ""entry"": 2.50, ""size"": ""complete"" }"
+user:,Trim MSFT here 2.50 - 3.00 ✅ 20%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""MSFT"", ""entry"": 3.00, ""size"": ""partial"" }"
+user:,High Risk SPX here 01/31 4860P Avg. 3.00
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4860, ""right"": ""P"", ""entry"": 3.00, ""size"": ""complete"" }"
+user:,Trim SPX here 3.00 - 5.00 ✅ 66% Holding most.
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 5.00, ""size"": ""partial"" }"
+user:,Closed both SPX and MSFT here
+assistant:,
+user:,Riskier SPX here 02/01 4890C Avg. 2.90
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4890, ""right"": ""C"", ""entry"": 2.90, ""size"": ""complete"" }"
+user:,Trim SPX here 2.90 - 3.50 ✅ 21%
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"": 3.50, ""size"": ""partial"" }"
+user:,Closed SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,High Risk SPX here 02/01 4885C Avg. 3.50 Stay light
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4885, ""right"": ""C"", ""entry"": 3.50, ""size"": ""complete"" }"
+user:,Stopped out of SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,SPX here 02/01 4835P Avg. 3.00
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""strike"": 4835, ""right"": ""P"", ""entry"": 3.00, ""size"": ""complete"" }"
+user:,Added to SPX here @1.80 New Avg is 2.40
+assistant:,"{ ""action"": ""BTO"", ""ticker"": ""SPX"", ""entry"": 1.80, ""size"": ""partial"" }"
+user:,Stopped out of SPX here
+assistant:,"{ ""action"": ""STC"", ""ticker"": ""SPX"", ""entry"":, ""size"": ""complete"" }"
+user:,
+assistant:,
+user:,
+assistant:,
+user:,
+assistant:,
+user:,
+assistant:,
+user:,
+assistant:,
+user:,
+assistant:,
+user:,
+assistant:,
+user:,
+assistant:,
+user:,
+assistant:,
