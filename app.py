@@ -24,7 +24,7 @@ llm = OpenAI(model='gpt-4-turbo-preview', temperature=0, max_tokens=256)
 embed_model = OpenAIEmbedding()
 
 # Streamlit UI
-st.title("Q&A System with Llama Index")
+st.title("Trader-GPT")
 
 # Specify the directory containing the CSV files
 input_directory = 'Dataset_'
