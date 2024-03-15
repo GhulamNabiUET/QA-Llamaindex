@@ -20,7 +20,7 @@ os.environ["OPENAI_API_KEY"]=os.getenv('OPENAI_API_KEY')
 
 # apenai_api_key = st.secrets("OPENAI_API_KEY")
 
-llm = OpenAI(model='gpt-4-turbo-preview', temperature=0, max_tokens=256)
+llm = OpenAI(model='gpt-3.5-turbo', temperature=0, max_tokens=256)
 embed_model = OpenAIEmbedding()
 
 # Streamlit UI
@@ -40,7 +40,7 @@ node_parser = SimpleNodeParser.from_defaults(
   chunk_overlap=20,
   paragraph_separator="\n\n\n",
   secondary_chunking_regex="[^,.;。]+[,.;。]?",
-  tokenizer=tiktoken.encoding_for_model("gpt-4-turbo-preview").encode
+  tokenizer=tiktoken.encoding_for_model("gpt-3.5-turbo").encode
 )
 
 prompt_helper = PromptHelper(
